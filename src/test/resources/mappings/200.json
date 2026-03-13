@@ -1,0 +1,17 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPathPattern": "/individ/ed7a3aba-7ba7-4639-b92f-87a8bb26989b"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "jsonBody": {
+      "id": "ed7a3aba-7ba7-4639-b92f-87a8bb26989b",
+      "typ": "Pnr",
+      "varde": "19990101-9999"
+    }
+  }
+}
